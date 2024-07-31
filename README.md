@@ -1,9 +1,6 @@
 # RainbowRayCamera
 
 * [App in Google Play Market](https://play.google.com/store/apps/details?id=com.ktvincco.rainbowraycamera)
-* [App code repository](https://github.com/ketoslavaket/rainbowraycamera-project)
-* [App resources repository](https://github.com/ketoslavaket/rainbowraycamera-resources)
-* [App web repository](https://github.com/ketoslavaket/rainbowraycamera-web)
 
 # About
 
