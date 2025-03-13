@@ -49,7 +49,7 @@ NOTICE: This application uses the OpenSans font, which is licensed under the [Ap
 # Developers
 
 * Ketaslava Ket
-* KTVINCCO STUDIO
+* KTVINCCO Team
 
 # Feedback
 
