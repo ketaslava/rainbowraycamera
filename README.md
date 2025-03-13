@@ -34,7 +34,7 @@ I have been using Android smartphones all my life and believe that Android is th
 
 # License
 
-This project is available under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)
+This project is available under the [GNU JENERAL PUBLIC LICENSE Version 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)
 
 Notice of licenses used in the project's technologies:
 
