@@ -1,5 +1,9 @@
 # RainbowRayCamera
 
+<img src="https://github.com/ketaslava/rainbowraycamera/blob/main/images/logo.png" alt="drawing" width="200"/>
+
+# Links
+
 * [App in Google Play Market](https://play.google.com/store/apps/details?id=com.ktvincco.rainbowraycamera)
 
 * [Source code](https://github.com/ketaslava/rainbowraycamera-project)
