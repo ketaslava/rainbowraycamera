@@ -41,10 +41,8 @@ Notice of licenses used in the project's technologies:
 OpenCV:
 NOTICE: This application uses OpenCV, which is licensed under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0") License. [Source code](https://github.com/opencv/opencv) .
 
-
 OpenSans:
 NOTICE: This application uses the OpenSans font, which is licensed under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0") License.
-
 
 # Developers
 
@@ -53,16 +51,21 @@ NOTICE: This application uses the OpenSans font, which is licensed under the [Ap
 
 # Feedback
 
-If you encounter any issues with the application, or if you'd like to suggest an improvement, provide technical advice, or join our team, you can use the feedback form (in contacts) to submit your idea. This is the fastest option. We will definitely see your proposal and respond promptly
+Got an idea or feature request? We're always looking for ways to improve! Send your suggestions to us!
 
 # Contacts
 
-* Website: https://ktvincco.com
-* Email: ktvincco@gmail.com
-* [RainbowRayCamera Feedback Form](https://ktvincco.com)
-* [Write a review on the Play Market](https://play.google.com/store/apps/details?id=com.ktvincco.rainbowraycamera)
+Preferred Communication:
 
-# Official Contacts
+* BlueSky: @ketaslava.bsky.social
+
+Join the Community
+
+* YouTube: @ketaslava, @ktvincco_production
+* Instagram: @ketaslava, @ktvincco
+* Telegram: @ketaslavaket, @ktvincco_production
+
+# Official Communication
 
 * Email: ktvincco@gmail.com
 
